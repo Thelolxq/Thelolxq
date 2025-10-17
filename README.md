@@ -12,8 +12,7 @@
 
 ## About Me
 
--🧑‍🎓 I'm a student at the Polytechnic University of Chiapas, i almots finished the major
-<br>
+-🧑‍🎓 I'm a student at the Polytechnic University of Chiapas, the engineering is almost over
 -🌮 I´m from Mexico
 <br>
 -📚 I love learning things
