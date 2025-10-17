@@ -13,7 +13,9 @@
 ## About Me
 
 -🧑‍🎓 I'm a student at the Polytechnic University of Chiapas, i almots finished the major
--🇲🇽 I live in Mexico
+<br>
+-🌮 I´m from Mexico
+<br>
 -📚 I love learning things
 
 
