@@ -19,3 +19,13 @@
 -📚 I love learning things
 
 
+
+
+
+
+## My skills
+
+![Static Badge](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=Flutter&logoColor=blue&labelColor=white)
+
+
+
