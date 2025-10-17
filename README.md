@@ -13,6 +13,7 @@
 ## About Me
 
 -🧑‍🎓 I'm a student at the Polytechnic University of Chiapas, the engineering is almost over
+<br>
 -🌮 I´m from Mexico
 <br>
 -📚 I love learning things
